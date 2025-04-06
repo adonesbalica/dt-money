@@ -17,6 +17,7 @@ interface TransactionsProviderProps {
   children: React.ReactNode
 }
 
+// eslint-disable-next-line
 export const TransactionsContext = createContext({} as TransactionContextType)
 
 export function TransactionsProvider({ children }: TransactionsProviderProps) {
