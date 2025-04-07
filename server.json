@@ -23,6 +23,54 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2025-03-06T00:00:58.780Z"
+    },
+    {
+      "description": "Pizza",
+      "price": 100,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-04-06T23:55:58.047Z",
+      "id": 4
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2025-04-06T23:56:17.111Z",
+      "id": 5
+    },
+    {
+      "description": "Pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-04-06T23:59:36.906Z",
+      "id": 6
+    },
+    {
+      "description": "Coxinha",
+      "price": 10,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-04-07T00:07:49.415Z",
+      "id": 7
+    },
+    {
+      "description": "Marmita",
+      "price": 23,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-04-07T00:10:53.033Z",
+      "id": 8
+    },
+    {
+      "description": "Desenvolvimento chatbot",
+      "price": 1000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2025-04-07T00:13:39.345Z",
+      "id": 9
     }
   ]
 }
